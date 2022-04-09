@@ -25,6 +25,4 @@ Postgres - Database Airflow:
 * User: airflow
 * Password: airflow
 
-Mohon maaf tugas saya belum selesai, laptop saya ngecrash kak
-
 
